@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinitha2001mani</h1>
 <h3 align="center">Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitha2002mani" alt="vinitha2002mani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitha2001mani" alt="vinitha2001mani" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Vinitha2001mani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vinitha2001mani" /></a></p><br><br>
-
